@@ -1,1 +1,41 @@
-
+Gender,Married,Dependents,Education,Self_Employed,ApplicantIncome,CoapplicantIncome,LoanAmount,Loan_Amount_Term,Credit_History,Property_Area,Loan_Status
+Male,Yes,0,Graduate,No,5000,2000,150,360,1,Urban,Y
+Female,No,0,Graduate,No,3500,0,100,360,1,Semiurban,Y
+Male,No,2,Not Graduate,Yes,2500,1000,180,360,0,Rural,N
+Male,Yes,1,Graduate,No,6000,2500,200,360,1,Urban,Y
+Female,Yes,0,Graduate,No,4500,1500,130,360,1,Semiurban,Y
+Male,No,3+,Graduate,Yes,3000,500,220,360,0,Rural,N
+Male,Yes,2,Graduate,No,8000,3000,250,360,1,Urban,Y
+Female,No,0,Not Graduate,No,2800,0,90,360,1,Rural,Y
+Male,Yes,1,Graduate,No,7000,2000,180,360,1,Semiurban,Y
+Female,Yes,2,Graduate,No,5500,1800,160,360,1,Urban,Y
+Male,No,0,Not Graduate,Yes,2200,500,140,360,0,Rural,N
+Male,Yes,3+,Graduate,No,9000,3500,300,360,1,Urban,Y
+Female,No,1,Graduate,No,4200,1200,125,360,1,Semiurban,Y
+Male,Yes,0,Graduate,No,6500,2200,190,360,1,Urban,Y
+Male,No,2,Not Graduate,No,2700,800,170,360,0,Rural,N
+Female,Yes,0,Graduate,Yes,4800,1600,140,360,1,Semiurban,Y
+Male,Yes,1,Graduate,No,7500,2500,230,360,1,Urban,Y
+Female,No,0,Not Graduate,No,3200,0,110,360,0,Rural,N
+Male,Yes,2,Graduate,No,5800,2000,175,360,1,Semiurban,Y
+Male,No,1,Graduate,Yes,3900,1000,200,360,0,Rural,N
+Female,Yes,0,Graduate,No,6200,1800,155,360,1,Urban,Y
+Male,Yes,3+,Not Graduate,No,3600,1500,210,360,0,Rural,N
+Female,No,2,Graduate,No,5100,1300,145,360,1,Semiurban,Y
+Male,Yes,0,Graduate,No,8500,4000,280,360,1,Urban,Y
+Male,No,0,Not Graduate,Yes,2400,700,120,360,0,Rural,N
+Female,Yes,1,Graduate,No,5700,1900,165,360,1,Semiurban,Y
+Male,Yes,2,Graduate,No,6800,2500,210,360,1,Urban,Y
+Female,No,0,Not Graduate,No,2900,0,95,360,1,Rural,Y
+Male,Yes,1,Graduate,Yes,4600,1200,185,360,1,Semiurban,Y
+Male,No,3+,Not Graduate,No,3100,500,190,360,0,Rural,N
+Female,Yes,0,Graduate,No,7300,2700,220,360,1,Urban,Y
+Male,Yes,2,Graduate,No,5400,1700,150,360,1,Semiurban,Y
+Female,No,1,Graduate,No,4000,900,135,360,1,Rural,Y
+Male,Yes,0,Not Graduate,Yes,2600,600,160,360,0,Rural,N
+Male,Yes,3+,Graduate,No,9500,3200,310,360,1,Urban,Y
+Female,No,0,Graduate,No,4700,1200,130,360,1,Semiurban,Y
+Male,Yes,1,Graduate,No,6100,2100,185,360,1,Urban,Y
+Male,No,2,Not Graduate,Yes,2300,400,150,360,0,Rural,N
+Female,Yes,0,Graduate,No,5900,1600,145,360,1,Semiurban,Y
+Male,Yes,2,Graduate,No,7800,2800,240,360,1,Urban,Y
